@@ -88,6 +88,8 @@ LightGBM achieved the strongest overall performance and was selected for deploym
 
 The project demonstrated that modern gradient boosting methods outperform the deep learning model tested on this structured HR dataset.
 
+<img width="500" height="460" alt="models_comparison_XGBoost_LightGBM_MLP" src="https://github.com/user-attachments/assets/b097e36d-0167-4e62-85ad-2dd39c6ed308" />
+
 ---
 
 ## 🔍 Explainable AI (SHAP)
@@ -105,6 +107,8 @@ The most influential features included:
 * Years With Current Manager
 
 These insights allow HR professionals to understand **why** employees are predicted to leave rather than relying on black-box predictions.
+
+<img width="563" height="652" alt="SHAP_summary_plot" src="https://github.com/user-attachments/assets/b6859fc3-d904-4f8c-a258-e20491355b22" />
 
 ---
 
@@ -154,7 +158,7 @@ Based on model explainability, organizations can reduce employee attrition by fo
 employee-attrition-prediction/
 
 ├── thesis/
-├── presentation/
+├── presentation-slides/
 ├── notebooks/
 ├── data/
 ├── images/
@@ -180,7 +184,7 @@ employee-attrition-prediction/
 
 ---
 
-## Repository Contents
+## 📚 Repository Contents
 
 This repository includes:
 
