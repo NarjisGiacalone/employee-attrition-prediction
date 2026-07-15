@@ -138,6 +138,9 @@ A React-based web application allows HR users to:
 
 The deployment demonstrates how machine learning models can transition from research into practical business applications.
 
+Web application repository : https://github.com/NarjisGiacalone/attrition-app
+<img width="1842" height="475" alt="web_app_screenshot" src="https://github.com/user-attachments/assets/49c99bb5-5e1b-42f8-a628-1cf038eb21b6" />
+
 ---
 
 ## 💼 Business Recommendations
