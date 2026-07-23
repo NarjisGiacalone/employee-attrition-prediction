@@ -218,6 +218,8 @@ Potential extensions include:
 
 **Narjis Jebali Giacalone**
 
+🔗 www.linkedin.com/in/narjis-giacalone
+
 M.S. Business Analytics
 
 Elon University
